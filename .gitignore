@@ -1,1 +1,70 @@
-.ipynb*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime files
+.jupyter/
+~$*
+
+# VS Code settings (optional)
+.vscode/
+
+# Python virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# pipenv and poetry
+Pipfile.lock
+poetry.lock
+
+# Python environment files
+*.env
+*.venv
+
+# MyPy cache
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# pytype static analysis
+.pytype/
+
+# pytest
+.cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# pyright
+typings/
+
+# PyInstaller
+*.manifest
+*.spec
+dist/
+build/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter notebook temp outputs
+*.nbconvert.ipynb
+
